@@ -11,7 +11,7 @@
 
 使用
 -------
-`var spliter=require('word_spliter')`
+`var spliter=require('word_spliter')`  
 `spliter.split("大腦超載時代的思考學")`
 
 輸出將會是:[ '大腦', '超載', '時代', '的', '思考', '學' ]
