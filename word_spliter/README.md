@@ -7,16 +7,13 @@
 
 安裝
 -------
-<code>npm install \word_spliter</code>
+`npm install word_spliter`
 
 使用
 -------
-<code>var spliter=require('word_spliter')
-
+`var spliter=require('word_spliter')
 spliter.split("大腦超載時代的思考學")
-
-//Output:[ '大腦', '超載', '時代', '的', '思考', '學' ]</code>
-
+//Output:[ '大腦', '超載', '時代', '的', '思考', '學' ]`
 
 
 開源授權資訊
