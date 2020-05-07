@@ -1,6 +1,22 @@
 
 說明
 -------
+使用[《教育部重編國語辭典修訂本》](http://dict.revised.moe.edu.tw/cbdic/)的詞條，
+將輸入的句子分解為有意義的詞彙。
+並以陣列形式返還。
+
+安裝
+-------
+<code>npm install \word_spliter</code>
+
+使用
+-------
+<code>var spliter=require('word_spliter')
+
+spliter.split("大腦超載時代的思考學")
+
+//Output:[ '大腦', '超載', '時代', '的', '思考', '學' ]</code>
+
 
 
 開源授權資訊
