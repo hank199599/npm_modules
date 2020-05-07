@@ -4,12 +4,12 @@
   "description": "An module to split a sentence into slice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "c66c6c"
+    "url": "https://github.com/hank199599/npm_modules/tree/master/word_spliter"
   },
-  "author": "",
+  "author": "Hank Yu",
   "license": "ISC"
 }
