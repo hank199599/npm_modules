@@ -15,5 +15,5 @@ module.exports.split = (input) => {
 			  m++;}
 			  else{return_array.push(input_array[m]);}
 		 }
-  return x + y;
+  return return_array;
 }		 

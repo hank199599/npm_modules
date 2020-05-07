@@ -4,12 +4,22 @@
   "description": "An module to split a sentence into slice",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/hank199599/npm_modules/tree/master/word_spliter"
   },
+  "keywords": [
+    "split",
+    "chinese",
+    "字串",
+    "中文"
+  ],
   "author": "Hank Yu",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samejack/SnsShare/issues"
+  },
+  "homepage": "https://github.com/samejack/SnsShare"
 }
