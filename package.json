@@ -1,0 +1,15 @@
+{
+  "name": "word_spliter",
+  "version": "1.0.0",
+  "description": "An module to split a sentence into slice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "c66c6c"
+  },
+  "author": "",
+  "license": "ISC"
+}
