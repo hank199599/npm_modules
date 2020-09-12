@@ -7,13 +7,13 @@
 安裝
 -------
 ```bash
-npm install 24 points solver
+npm install 24_points_solver
 ```
 
 使用
 -------
 ```bash
-var solver=require('24 points solver')  
+var solver=require('24_points_solver')  
 solver.calculator(1,2,3,4)
 
 //output will be:
