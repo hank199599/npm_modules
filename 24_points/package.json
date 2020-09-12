@@ -1,0 +1,14 @@
+{
+  "name": "24_points",
+  "version": "1.0.0",
+  "description": "24 points solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "24"
+  ],
+  "author": "YU,SHAO-HUNG",
+  "license": "MIT"
+}
