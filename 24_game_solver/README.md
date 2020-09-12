@@ -1,24 +1,30 @@
 
-說明
+Description
 -------
-改造[24 Point Poker Game Calculator](https://helloacm.com/24/)的PHP代碼，  
-轉換為JavaScript的模組形式。
+Modify the PHP code of 24 Point Poker Game Calculator,
+Converted to JavaScript module form.
 
-輸出將包含：解法列表(陣列)、解法數目
+The output will contain: solution list (array), number of solutions
 
-安裝
+installation
 -------
 ```bash
-npm install 24_game_solver
+npm install 24_game_resolver
 ```
 
-使用
+Example
 -------
 ```bash
-var solver=require('24_game_solver')  
+var solver=require('24_game_resolver')  
 solver.calculator(1,2,3,4)
 
-//output will be:
+//output will be:  
+{  
+    input: [ 1, 2, 3, 4 ], //array of input  
+    errorCode: 0,  
+    count: 84, //count of solutions  
+    result: [...] //solution list  
+}    
 ```
 
 
