@@ -1,10 +1,11 @@
 
 Description
 -------
-Modify the PHP code of 24 Point Poker Game Calculator,
+Modify the PHP code of 24 Point Poker Game Calculator,  
 Converted to JavaScript module form.
 
-The output will contain: solution list (array), number of solutions
+The output will be a JSON form,   
+which will be in form with solution list (array), number of solutions.
 
 installation
 -------
