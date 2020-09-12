@@ -1,7 +1,7 @@
 
 Description
 -------
-Modify the PHP code of 24 Point Poker Game Calculator,  
+Modify the PHP code of [24 Point Poker Game Calculator](https://helloacm.com/24/),  
 Converted to JavaScript module form.
 
 The output will be a JSON form,   
